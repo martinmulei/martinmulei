@@ -8,7 +8,7 @@
 
 ---
 
-I am a **BBA (Accounting) student with a strong foundation in financial reporting, performance analysis, and business strategy**. Certified in the **Google Data Analytics Professional Certificate** and the **Microsoft Power BI Data Analyst Professional Certificate**, with advanced expertise in **financial data modeling, DAX, Power Query, and executive dashboard development**.  
+I am a **BBA (Accounting) student with a strong foundation in financial reporting, performance analysis, and business strategy**. Certified in the **Google Data Analytics Professional Certificate** and the **Microsoft Power BI Data Analyst Professional Certificate**, with expertise in **financial data modeling, DAX, Power Query, and executive dashboard development**.  
 
 Skilled in **SQL, R, Excel, and business intelligence tools**, I transform financial and operational data into actionable insights that support **budgeting, forecasting, variance analysis, and strategic decision-making**. Focused on building a career as a **Financial Analyst**, leveraging data to drive **performance optimization and informed business growth**.
 
@@ -17,13 +17,16 @@ Skilled in **SQL, R, Excel, and business intelligence tools**, I transform finan
 ## 🛠️ Technical Skills & Certifications
 
 **Microsoft Power BI Data Analyst**  
-![Power BI](https://img.shields.io/badge/Power_BI-Certified-blue) ![ETL](https://img.shields.io/badge/ETL-Data-green) ![DAX](https://img.shields.io/badge/DAX-Advanced-blueviolet) ![Dashboards](https://img.shields.io/badge/Dashboards-Executive-blue)
+![Power BI](https://img.shields.io/badge/Power_BI-Certified-blue) ![ETL](https://img.shields.io/badge/ETL-Data-green) ![DAX](https://img.shields.io/badge/DAX-blueviolet) ![Dashboards](https://img.shields.io/badge/Dashboards-blue)  
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-blue) ![KPI Reporting](https://img.shields.io/badge/KPI_Reporting-red) ![Data Governance](https://img.shields.io/badge/Data_Governance-blue) ![Power Query](https://img.shields.io/badge/Power_Query-blue) ![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-blue) ![Data Visualization](https://img.shields.io/badge/Data_Visualization-blueviolet)
 
 **Google Data Analytics Professional Certificate**  
-![SQL](https://img.shields.io/badge/SQL-Expert-green) ![R](https://img.shields.io/badge/R-Intermediate-orange) ![Tableau](https://img.shields.io/badge/Tableau-Basic-lightblue) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-Powerful-blue)
+![SQL](https://img.shields.io/badge/SQL-green) ![R](https://img.shields.io/badge/R-orange) ![Tableau](https://img.shields.io/badge/Tableau-lightblue) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-blue) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-yellow)
 
 **Accounting & Finance Skills**  
-![Cost Accounting](https://img.shields.io/badge/Cost_Accounting-Advanced-red) ![Financial Accounting](https://img.shields.io/badge/Financial_Accounting-Advanced-red) ![IFRS](https://img.shields.io/badge/IFRS-Knowledge-blue) ![Business Statistics](https://img.shields.io/badge/Business_Statistics-Intermediate-blue) ![Economics](https://img.shields.io/badge/Economics-Intermediate-blue)
+![Cost Accounting](https://img.shields.io/badge/Cost_Accounting-red) ![Financial Accounting](https://img.shields.io/badge/Financial_Accounting-red) ![IFRS](https://img.shields.io/badge/IFRS-blue) ![Business Statistics](https://img.shields.io/badge/Business_Statistics-blue) ![Economics](https://img.shields.io/badge/Economics-blue)
+
+*All academic & technical knowledge anchored at Technical University of Mombasa.*
 
 ---
 
@@ -60,4 +63,4 @@ Skilled in **SQL, R, Excel, and business intelligence tools**, I transform finan
 
 ---
 
-*This README presents executive-level financial analytics expertise, interactive portfolio projects, and dashboard-style layout for hiring managers.*
+*This README is structured to reflect executive-level financial analytics expertise with interactive, dashboard-style layout for hiring managers.*

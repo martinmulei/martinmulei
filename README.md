@@ -32,19 +32,26 @@ Skilled in **SQL, R, Excel, and business intelligence tools**, I transform finan
 
 ## 📊 Featured Projects
 
-> Clickable tiles — show "View Project” when clicked
-
 <div style="display: flex; flex-wrap: wrap; gap: 16px;">
 
-[![Sales and Profitability Dashboard](https://raw.githubusercontent.com/martinmulei/sales-profitability-dashboard-powerbi/main/screenshots/Dashboard.png)](https://github.com/martinmulei/sales-profitability-dashboard-powerbi)
+<!-- Completed Project Tile -->
+<a href="https://raw.githubusercontent.com/martinmulei/sales-profitability-dashboard-powerbi/main/screenshots/Dashboard.png">
+  <img src="https://raw.githubusercontent.com/martinmulei/sales-profitability-dashboard-powerbi/main/screenshots/Dashboard.png" width="300" alt="Sales & Profitability Dashboard"/>
+</a>
 
+<!-- Coming Soon Tiles -->
+<a href="#">
+  <img src="https://img.shields.io/badge/Revenue_Profitability-Coming_Soon-lightgrey" width="300" alt="Revenue & Profitability Coming Soon"/>
+</a>
 
-
-
+<a href="#">
+  <img src="https://img.shields.io/badge/Customer_Loyalty_Analytics-Coming_Soon-lightgrey" width="300" alt="Customer Loyalty Coming Soon"/>
+</a>
 
 </div>
 
-*(More projects coming soon — clickable tiles ready for live dashboards)*
+*Click the tiles to view dashboards. More projects coming soon!*
+
 
 ---
 

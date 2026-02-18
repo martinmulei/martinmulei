@@ -36,7 +36,10 @@ Skilled in **SQL, R, Excel, and business intelligence tools**, I transform finan
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px;">
 
-[![Sales and Profitability Optimization Dashboard](https://img.shields.io/badge/Financial_Performance_Dashboard-Coming_Soon-lightgrey)](https://martinmulei/sales-profitability-dashboard-powerbi)  
+[![Sales and Profitability Dashboard](https://raw.githubusercontent.com/martinmulei/sales-profitability-dashboard-powerbi/main/screenshots/Dashboard.png)](https://github.com/martinmulei/sales-profitability-dashboard-powerbi)
+
+
+
 
 
 </div>

@@ -32,15 +32,12 @@ Skilled in **SQL, R, Excel, and business intelligence tools**, I transform finan
 
 ## 📊 Featured Projects
 
-> Clickable tiles — show “Coming Soon” when clicked
+> Clickable tiles — show "View Project” when clicked
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px;">
 
-[![Financial Performance Dashboard](https://img.shields.io/badge/Financial_Performance_Dashboard-Coming_Soon-lightgrey)](https://example.com)  
+[![Sales and Profitability Optimization Dashboard](https://img.shields.io/badge/Financial_Performance_Dashboard-Coming_Soon-lightgrey)](https://martinmulei/sales-profitability-dashboard-powerbi)  
 
-[![Revenue & Profitability Analysis](https://img.shields.io/badge/Revenue_Profitability-Coming_Soon-lightgrey)](https://example.com)  
-
-[![Customer Segmentation & Loyalty Analytics](https://img.shields.io/badge/Customer_Loyalty_Analytics-Coming_Soon-lightgrey)](https://example.com)  
 
 </div>
 

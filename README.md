@@ -34,26 +34,26 @@ Skilled in **SQL, R, Excel, and business intelligence tools**, I transform finan
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-  <!-- Completed Project -->
-  <a href="https://raw.githubusercontent.com/martinmulei/sales-profitability-dashboard-powerbi/main/screenshots/Dashboard.png" 
-     style="text-decoration: none;">
-    <div style="background-color:#1F77B4; color:white; padding:20px; width:220px; text-align:center; border-radius:8px; box-shadow: 0px 4px 6px rgba(0,0,0,0.1); font-weight:bold;">
+  <!-- Completed Project Tile -->
+  <a href="https://raw.githubusercontent.com/martinmulei/sales-profitability-dashboard-powerbi/main/screenshots/Dashboard.png" style="text-decoration: none;">
+    <div style="background-color:#1F77B4; color:white; padding:30px; width:250px; text-align:center; border-radius:12px; box-shadow: 0px 6px 10px rgba(0,0,0,0.15); font-weight:bold; transition: transform 0.2s;">
       Sales & Profitability Dashboard
     </div>
   </a>
 
-  <!-- Coming Soon Projects -->
-  <div style="background-color:#6c757d; color:white; padding:20px; width:220px; text-align:center; border-radius:8px; box-shadow: 0px 4px 6px rgba(0,0,0,0.1); font-weight:bold;">
+  <!-- Coming Soon Tiles -->
+  <div style="background-color:#6c757d; color:white; padding:30px; width:250px; text-align:center; border-radius:12px; box-shadow: 0px 6px 10px rgba(0,0,0,0.15); font-weight:bold; opacity:0.7;">
     Revenue & Profitability (Coming Soon)
   </div>
 
-  <div style="background-color:#6c757d; color:white; padding:20px; width:220px; text-align:center; border-radius:8px; box-shadow: 0px 4px 6px rgba(0,0,0,0.1); font-weight:bold;">
+  <div style="background-color:#6c757d; color:white; padding:30px; width:250px; text-align:center; border-radius:12px; box-shadow: 0px 6px 10px rgba(0,0,0,0.15); font-weight:bold; opacity:0.7;">
     Customer Loyalty Analytics (Coming Soon)
   </div>
 
 </div>
 
-<p style="margin-top:10px; font-style:italic;">Click the buttons to view dashboards. More projects coming soon!</p>
+<p style="margin-top:15px; font-style:italic;">Click the buttons to view dashboards. More projects coming soon!</p>
+
 
 
 ---

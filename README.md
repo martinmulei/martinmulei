@@ -31,7 +31,7 @@ Skilled in **SQL, R, Excel, and business intelligence tools**, I transform finan
 
 ---
 
-### 📊 Featured Projects
+# 📊 Featured Projects
 
 ## 📊 Sales & Profit Optimization Dashboard  
 

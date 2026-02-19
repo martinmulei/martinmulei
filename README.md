@@ -44,7 +44,7 @@ Comprehensive financial performance analysis evaluating revenue growth, margin d
 ### Project Resources
 
 - 📄 **Project Documentation**  
-  [View Business Report](https://github.com/martinmulei/sales-profitability-dashboard-powerbi/blob/main/Tailwind_Project_Documentation)
+  [View Business Report](https://github.com/martinmulei/sales-profitability-dashboard-powerbi/blob/main/Tailwind_Project_Documentation.pdf)
 
 - 📊 **Power BI Dashboard (.pbix)**  
   [Download Dashboard File](https://github.com/martinmulei/sales-profitability-dashboard-powerbi/blob/main/Tailwind_Traders_Sales.pbix)

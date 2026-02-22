@@ -34,7 +34,7 @@ Skilled in **SQL, R, Excel, and business intelligence tools**, I transform finan
 
 # 📊 Featured Projects
 
-##  Sales & Profit Optimization Dashboard  
+##  1. Sales & Profit Optimization Dashboard  
 
 **Tech Stack:** SQL | Power BI | Financial Modeling  
 

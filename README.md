@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="martin.png" alt="Martin Mulei" width="150" />
+  <img src="martin.png" alt="Martin Mulei" width="300" height="300" />
 </p>
 
 <h1 align="center">Martin Mulei</h1>

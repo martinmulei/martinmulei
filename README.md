@@ -1,16 +1,19 @@
-<div style="display:flex; align-items:center;">
-  <img src="martin.png" 
-       alt="Martin Mulei" 
-       width="200" 
-       style="border-radius:50%; 
-              border: 5px solid #1F3A8A;
-              box-shadow: 0 0 40px rgba(31, 58, 138, 0.5);" />
-  <div style="margin-left:20px;">
-    <h1>Martin Mulei</h1>
-    <p>BBA (Accounting) Student • Google Data Analytics Certified • Microsoft Power BI Certified</p>
-  </div>
-</div>
-
+<table>
+  <tr>
+    <td>
+      <img src="martin.png" 
+           alt="Martin Mulei" 
+           width="200" 
+           style="border-radius:50%; 
+                  border: 5px solid #1F3A8A;
+                  box-shadow: 0 0 40px rgba(31, 58, 138, 0.5);" />
+    </td>
+    <td style="padding-left:20px; vertical-align: middle;">
+      <h1>Martin Mulei</h1>
+      <p>BBA (Accounting) Student • Google Data Analytics Certified • Microsoft Power BI Certified</p>
+    </td>
+  </tr>
+</table>
 
 
 <p align="center">

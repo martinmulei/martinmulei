@@ -36,8 +36,6 @@ Skilled in **SQL, R, Excel, and business intelligence tools**, I transform finan
 
 ##  1. Sales & Profit Optimization Dashboard  
 
-**Tech Stack:** SQL | Power BI | Financial Modeling  
-
 Comprehensive financial performance analysis evaluating revenue growth, margin dynamics, and regional contribution to profitability.
 
 <p align="center">
@@ -45,8 +43,6 @@ Comprehensive financial performance analysis evaluating revenue growth, margin d
     <img src="https://github.com/martinmulei/sales-profitability-dashboard-powerbi/blob/main/Dashboard.png" width="800" alt="Sales & Profit Optimization Dashboard"/>
   </a>
 </p>
-
-### Project Resources
 
 - 💻 **Full Project Repository**  
   [Explore Complete Project](https://github.com/martinmulei/sales-profitability-dashboard-powerbi)

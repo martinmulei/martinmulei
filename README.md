@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="martin.png" alt="Martin Mulei" width="150" />
+</p>
+
 <h1 align="center">Martin Mulei</h1>
 
 <p align="center">

@@ -51,8 +51,7 @@ Skilled in **SQL, R, Excel, and business intelligence tools**, I transform finan
 Comprehensive financial performance analysis evaluating revenue growth, margin dynamics, and regional contribution to profitability.
 
 <p align="center">
-  <a href="https://github.com/martinmulei/sales-profitability-dashboard-powerbi/blob/main/Dashboard_images
-/Dashboard.png">
+  <a href="https://github.com/martinmulei/sales-profitability-dashboard-powerbi/blob/main/Dashboard_images/Dashboard.png">
     <img src="https://github.com/martinmulei/sales-profitability-dashboard-powerbi/blob/main/Dashboard.png" width="800" alt="Sales & Profit Optimization Dashboard"/>
   </a>
 </p>

@@ -59,11 +59,25 @@ Comprehensive financial performance analysis evaluating revenue growth, margin d
 - 💻 **Full Project Repository**  
   [Explore Complete Project](https://github.com/martinmulei/sales-profitability-dashboard-powerbi)
 
+## 2. BMW Financial Performance & Profitability Analysis
+
+Comprehensive financial and operational analysis of BMW, evaluating revenue, profitability, and regional performance for executive insights.
+
+<p align="center">
+  <a href="https://github.com/martinmulei/BMW_Financial_Performance-Profitability_Analysis/blob/main/Dashboard.png">
+    <img src="https://github.com/martinmulei/BMW_Financial_Performance-Profitability_Analysis/blob/main/Dashboard.png" width="800" alt="BMW Financial Performance & Profitability Analysis Dashboard"/>
+  </a>
+</p>    
+
+- 💻 **Full Project Repository:**  
+  [Explore Complete Project](https://github.com/martinmulei/BMW_Financial_Performance-Profitability_Analysis)
+
 ---
 
 ## 🌱 Currently Focused On
 
-- Advanced **SQL & BigQuery** for financial datasets  
+- Advanced **SQL & BigQuery** for financial datasets
+- Financial modelling and valuation
 - Designing **strategic KPIs** for executive decision-making  
 - Building **end-to-end financial analytics projects** for portfolio showcase  
 

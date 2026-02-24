@@ -52,9 +52,9 @@ Comprehensive financial performance analysis evaluating revenue growth, margin d
 
 <p align="center">
   <a href="https://github.com/martinmulei/sales-profitability-dashboard-powerbi/blob/main/Dashboard_images/Dashboard.png">
-    <img src="https://github.com/martinmulei/sales-profitability-dashboard-powerbi/blob/main/Dashboard.png" width="800" alt="Sales & Profit Optimization Dashboard"/>
+    <img src="https://github.com/martinmulei/sales-profitability-dashboard-powerbi/blob/main/Dashboard_images/Dashboard.png" width="800" alt="Sales & Profit Optimization Dashboard"/>
   </a>
-</p>
+</p>    
 
 - 💻 **Full Project Repository**  
   [Explore Complete Project](https://github.com/martinmulei/sales-profitability-dashboard-powerbi)

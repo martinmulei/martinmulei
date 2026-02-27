@@ -72,6 +72,21 @@ Comprehensive financial and operational analysis of BMW, evaluating revenue, pro
 - 💻 **Full Project Repository:**  
   [Explore Complete Project](https://github.com/martinmulei/BMW_Financial_Performance-Profitability_Analysis)
 
+
+## 3. E-Commerce Financial & Customer Analytics
+
+Comprehensive financial and customer analysis of **TheLook E-Commerce dataset**, evaluating **revenue, profitability, customer behavior, and regional performance** for executive insights. The dashboards provide actionable KPIs for **strategic decision-making**, including revenue trends, margin analysis, customer churn, and acquisition channel effectiveness.
+
+<p align="center">
+  <a href="https://github.com/martinmulei/Ecommerce-financial-customer-analytics/blob/main/Snapshots/Financial_Health_Dashboard.png">
+    <img src="https://github.com/martinmulei/Ecommerce-financial-customer-analytics/blob/main/Snapshots/Financial_Health_Dashboard.png" width="800" alt="TheLook Financial Performance & Profitability Dashboard"/>
+  </a>
+</p>
+
+### 🔗 Full Project Repository
+Explore the **complete project**, including SQL scripts, DAX measures, and Power BI dashboards:  
+[👉 Ecommerce Financial & Customer Analytics Project](https://github.com/martinmulei/Ecommerce-financial-customer-analytics)
+
 ---
 
 ## 🌱 Currently Focused On
